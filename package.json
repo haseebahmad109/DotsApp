@@ -1,0 +1,9 @@
+{
+  "name": "dots",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "^3.7.0",
+    "gulp-autoprefixer": "^0.0.7"
+  },
+  "dependencies": {}
+}
